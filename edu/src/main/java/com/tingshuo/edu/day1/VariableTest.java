@@ -18,11 +18,13 @@ public class VariableTest {
         boolean isStudent=false;
         // 定义一个小数类型，表示体重
         double weight=60.5;
+         double more =1.00;
 
         System.out.println("我的名字是："+name);
         System.out.println("我今年："+age+"岁");
         System.out.println("我的身高是："+height+"米");
         System.out.println("我是学生吗？"+isStudent);
         System.out.println("我的体重是？"+weight+"公斤");
+        System.out.println("我的存款是？"+more+"亿");
     }
 }
